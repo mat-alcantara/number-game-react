@@ -1,4 +1,4 @@
-# Foobar
+# Number Game
 
 Number Game is a project made by me in the Udacity Nanodegree React Course.
 
