@@ -3,7 +3,8 @@
 Number Game is a project made by me in the Udacity Nanodegree React Course.
 
 ![Img 1](./src/temp/img1.png)
-![Img 2](./src/temp/img1.png)
+
+![Img 2](./src/temp/img2.png)
 
 ## Installation
 
